@@ -11,4 +11,5 @@ This repository contains practical implementations and examples of Reinforcement
   - `cartpole_Day2.ipynb`: Implementation of DQN for the CartPole environment
   - `cartpole_dqn_model.pth`: Trained DQN model weights for CartPole
 
-
+- **Day3**: REINFORCE ALGORITHM
+-   `day3_reinforce.ipynb`:Implemenation of REINFORCE algorithm
