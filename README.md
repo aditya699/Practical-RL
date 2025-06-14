@@ -16,3 +16,6 @@ This repository contains practical implementations and examples of Reinforcement
 
 - **Day4**: Actor-Critic Algorithm
 -   `day4_actor_critic.ipynb`: Implementation of Actor-Critic algorithm
+
+- **Day5**: Transformers Revision (In Progress)
+-   `Transformer.ipynb`: Implementation of Transformers
