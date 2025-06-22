@@ -17,5 +17,10 @@ This repository contains practical implementations and examples of Reinforcement
 - **Day4**: Actor-Critic Algorithm
 -   `day4_actor_critic.ipynb`: Implementation of Actor-Critic algorithm
 
-- **Day5**: Transformers Revision (In Progress)
+- **Day5**: Transformers Revision 
 -   `Transformer.ipynb`: Implementation of Transformers
+
+-**Day6**: Atari Cracked with Deep Q Learning
+- `train.py`: Implementation of Deep Q learning for atari
+
+
